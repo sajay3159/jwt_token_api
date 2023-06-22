@@ -1,0 +1,15 @@
+{
+  "name": "jwt_token",
+  "version": "1.0.0",
+  "description": "make a jwt token authenication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Sahani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
